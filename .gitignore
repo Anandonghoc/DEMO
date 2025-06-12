@@ -1,0 +1,12 @@
+# Bỏ qua thư mục môi trường ảo
+venv/
+__pycache__/
+*.pyc
+
+# Bỏ ảnh lớn hoặc file model nếu cần
+*.h5
+*.keras
+
+# Thư mục của IDE
+.vscode/
+.idea/

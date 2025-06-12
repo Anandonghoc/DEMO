@@ -1,0 +1,152 @@
+{
+    "Pepper__bell___Bacterial_spot": {
+        "vi_name": "Ớt chuông - Đốm vi khuẩn",
+        "en_name": "Bell Pepper - Bacterial Spot",
+        "symptoms_vi": "Xuất hiện các đốm nước nhỏ, sau chuyển màu nâu và khô lại.",
+        "symptoms_en": "Small water-soaked spots that turn brown and dry.",
+        "treatment_vi": "Cắt bỏ lá bệnh, phun thuốc chứa đồng hoặc Streptomycin.",
+        "treatment_en": "Remove infected leaves, apply copper-based or Streptomycin spray.",
+        "note_vi": "Tránh tưới nước lên lá và luân canh cây trồng.",
+        "note_en": "Avoid overhead irrigation and practice crop rotation."
+    },
+    "Pepper__bell___healthy": {
+        "vi_name": "Ớt chuông - Khỏe mạnh",
+        "en_name": "Bell Pepper - Healthy",
+        "symptoms_vi": "Lá xanh, không có dấu hiệu bệnh.",
+        "symptoms_en": "Green leaves with no disease signs.",
+        "treatment_vi": "Tiếp tục chăm sóc cây đúng cách.",
+        "treatment_en": "Continue proper plant care.",
+        "note_vi": "Theo dõi thường xuyên để phát hiện sớm bệnh.",
+        "note_en": "Monitor regularly for early disease detection."
+    },
+    "Potato___Early_blight": {
+        "vi_name": "Khoai tây - Bệnh mốc sớm",
+        "en_name": "Potato - Early Blight",
+        "symptoms_vi": "Vết đốm nâu tròn, có vòng đồng tâm trên lá già.",
+        "symptoms_en": "Brown circular lesions with concentric rings on older leaves.",
+        "treatment_vi": "Loại bỏ lá bệnh, phun Mancozeb hoặc Chlorothalonil.",
+        "treatment_en": "Remove affected leaves, spray Mancozeb or Chlorothalonil.",
+        "note_vi": "Bón phân cân đối để tăng sức đề kháng.",
+        "note_en": "Use balanced fertilization to increase resistance."
+    },
+    "Potato___Late_blight": {
+        "vi_name": "Khoai tây - Bệnh mốc sương",
+        "en_name": "Potato - Late Blight",
+        "symptoms_vi": "Lá có vết nước sẫm màu, nhanh chóng lan rộng.",
+        "symptoms_en": "Dark water-soaked lesions that expand rapidly.",
+        "treatment_vi": "Dùng thuốc Metalaxyl, bảo đảm thông thoáng.",
+        "treatment_en": "Apply Metalaxyl, ensure good air circulation.",
+        "note_vi": "Thu dọn tàn dư cây sau thu hoạch.",
+        "note_en": "Clean crop debris after harvest."
+    },
+    "Potato___healthy": {
+        "vi_name": "Khoai tây - Khỏe mạnh",
+        "en_name": "Potato - Healthy",
+        "symptoms_vi": "Lá đều màu xanh, không có tổn thương.",
+        "symptoms_en": "Evenly green leaves without damage.",
+        "treatment_vi": "Tiếp tục tưới tiêu và bón phân hợp lý.",
+        "treatment_en": "Continue proper irrigation and fertilization.",
+        "note_vi": "Giám sát định kỳ để phát hiện bệnh sớm.",
+        "note_en": "Periodically monitor for early signs of disease."
+    },
+    "Tomato_Bacterial_spot": {
+        "vi_name": "Cà chua - Đốm vi khuẩn",
+        "en_name": "Tomato - Bacterial Spot",
+        "symptoms_vi": "Đốm nâu nhỏ, không đều, lan rộng trên lá và quả.",
+        "symptoms_en": "Small irregular brown spots spreading on leaves and fruit.",
+        "treatment_vi": "Phun thuốc gốc đồng, tránh tưới nước lên lá.",
+        "treatment_en": "Apply copper-based spray, avoid leaf wetting.",
+        "note_vi": "Luân canh và sử dụng giống kháng bệnh.",
+        "note_en": "Rotate crops and use resistant varieties."
+    },
+    "Tomato_Early_blight": {
+        "vi_name": "Cà chua - Mốc sớm",
+        "en_name": "Tomato - Early Blight",
+        "symptoms_vi": "Vòng tròn đồng tâm màu nâu trên lá già.",
+        "symptoms_en": "Brown concentric rings on older leaves.",
+        "treatment_vi": "Phun Chlorothalonil hoặc Difenoconazole.",
+        "treatment_en": "Spray Chlorothalonil or Difenoconazole.",
+        "note_vi": "Không để đất bắn lên lá khi tưới.",
+        "note_en": "Avoid splashing soil on leaves during watering."
+    },
+    "Tomato_Late_blight": {
+        "vi_name": "Cà chua - Mốc sương",
+        "en_name": "Tomato - Late Blight",
+        "symptoms_vi": "Lá có vết thâm nâu lan nhanh, có thể có mốc trắng dưới lá.",
+        "symptoms_en": "Rapidly spreading dark brown lesions with white mold on undersides.",
+        "treatment_vi": "Cắt bỏ lá bệnh, phun Metalaxyl hoặc Mancozeb.",
+        "treatment_en": "Remove diseased leaves, apply Metalaxyl or Mancozeb.",
+        "note_vi": "Luôn giữ khoảng cách giữa cây và tưới vào gốc.",
+        "note_en": "Maintain spacing and water at the base."
+    },
+    "Tomato_Leaf_Mold": {
+        "vi_name": "Cà chua - Mốc lá",
+        "en_name": "Tomato - Leaf Mold",
+        "symptoms_vi": "Mốc vàng ở mặt dưới lá, lá quăn lại.",
+        "symptoms_en": "Yellow mold on leaf undersides, leaf curling.",
+        "treatment_vi": "Phun thuốc Chlorothalonil, tăng độ thông thoáng.",
+        "treatment_en": "Spray Chlorothalonil, improve ventilation.",
+        "note_vi": "Tránh độ ẩm cao kéo dài trong nhà kính.",
+        "note_en": "Avoid prolonged high humidity in greenhouses."
+    },
+    "Tomato_Septoria_leaf_spot": {
+        "vi_name": "Cà chua - Đốm lá Septoria",
+        "en_name": "Tomato - Septoria Leaf Spot",
+        "symptoms_vi": "Đốm tròn nhỏ màu xám nâu với viền sẫm.",
+        "symptoms_en": "Small circular gray-brown spots with dark borders.",
+        "treatment_vi": "Phun thuốc chứa Chlorothalonil hoặc Copper.",
+        "treatment_en": "Apply Chlorothalonil or Copper-based sprays.",
+        "note_vi": "Không tưới nước lên lá, thu gom lá rụng.",
+        "note_en": "Avoid leaf wetting, collect fallen leaves."
+    },
+    "Tomato_Spider_mites_Two_spotted_spider_mite": {
+        "vi_name": "Cà chua - Nhện đỏ hai đốm",
+        "en_name": "Tomato - Two-Spotted Spider Mite",
+        "symptoms_vi": "Lá có đốm vàng, sau chuyển nâu và rụng.",
+        "symptoms_en": "Yellow spots on leaves that turn brown and fall.",
+        "treatment_vi": "Phun Abamectin hoặc dầu khoáng.",
+        "treatment_en": "Spray Abamectin or horticultural oil.",
+        "note_vi": "Giữ ẩm tốt và tránh cây bị stress.",
+        "note_en": "Maintain good humidity and avoid plant stress."
+    },
+    "Tomato__Target_Spot": {
+        "vi_name": "Cà chua - Đốm đích",
+        "en_name": "Tomato - Target Spot",
+        "symptoms_vi": "Vết tròn lớn có vòng tròn đồng tâm trên lá.",
+        "symptoms_en": "Large circular lesions with concentric rings on leaves.",
+        "treatment_vi": "Phun Azoxystrobin hoặc Pyraclostrobin.",
+        "treatment_en": "Apply Azoxystrobin or Pyraclostrobin.",
+        "note_vi": "Cắt tỉa để giảm ẩm độ tán lá.",
+        "note_en": "Prune plants to reduce leaf humidity."
+    },
+    "Tomato__Tomato_YellowLeaf__Curl_Virus": {
+        "vi_name": "Cà chua - Virus xoăn vàng lá",
+        "en_name": "Tomato - Yellow Leaf Curl Virus",
+        "symptoms_vi": "Lá vàng và xoăn, cây còi cọc, không đậu quả.",
+        "symptoms_en": "Yellow, curled leaves, stunted growth, no fruit set.",
+        "treatment_vi": "Nhổ bỏ cây bệnh, dùng bẫy dính bắt bọ phấn.",
+        "treatment_en": "Remove infected plants, use sticky traps for whiteflies.",
+        "note_vi": "Dùng lưới chắn côn trùng và giống kháng.",
+        "note_en": "Use insect netting and resistant varieties."
+    },
+    "Tomato__Tomato_mosaic_virus": {
+        "vi_name": "Cà chua - Virus khảm",
+        "en_name": "Tomato - Mosaic Virus",
+        "symptoms_vi": "Lá có vân sáng tối xen kẽ như khảm.",
+        "symptoms_en": "Mottled light and dark green leaf patterns.",
+        "treatment_vi": "Nhổ bỏ cây bệnh, sát trùng dụng cụ canh tác.",
+        "treatment_en": "Remove infected plants, sterilize tools.",
+        "note_vi": "Tránh hút thuốc khi làm việc với cây.",
+        "note_en": "Avoid tobacco use around plants."
+    },
+    "Tomato_healthy": {
+        "vi_name": "Cà chua - Khỏe mạnh",
+        "en_name": "Tomato - Healthy",
+        "symptoms_vi": "Lá xanh đều, không có đốm hay biến dạng.",
+        "symptoms_en": "Uniform green leaves without spots or deformation.",
+        "treatment_vi": "Tiếp tục chế độ chăm sóc và kiểm tra định kỳ.",
+        "treatment_en": "Continue care and monitor regularly.",
+        "note_vi": "Không cần can thiệp, duy trì điều kiện lý tưởng.",
+        "note_en": "No action needed, maintain optimal conditions."
+    }
+}
